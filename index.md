@@ -2,6 +2,7 @@
 
 ## Dataman Project
 A fun, educational emulation of the 70s kids' toy, Dataman, now in a modern program form. Aimed to be engaging for kids and a tool parents can appreciate for its educational value.
+![Old Dataman Image](/github1.jpg)
 
 ### Features of Dataman
 - **Answer Checker:** Helps validate the answers provided by kids.
@@ -10,6 +11,7 @@ A fun, educational emulation of the 70s kids' toy, Dataman, now in a modern prog
 
 ## My Projects
 Currently working on the Dataman project. Stay tuned for more updates and other interesting projects!
+![Kanban Board Image](/github2.jpg)
 
 ### Useful Links
 - [Markdown Tutorials](https://www.w3schools.io/file/markdown-introduction)
