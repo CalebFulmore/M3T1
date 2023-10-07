@@ -6,7 +6,7 @@ A fun, educational emulation of the 70s kids' toy, Dataman, now in a modern prog
 The original Dataman, released in the late 1970s, was not just a toy but an educational tool. It presented math problems, ranging from simple addition to complex division, and expected kids to input the correct answer. Beyond its educational aspect, Dataman was equipped with games to ensure that learning was a fun activity. With this project, we aim to bring back the nostalgia and learning value of Dataman in a modern, digital format.
 
 <div>
-<img src="/Github2.PNG" alt="Old Dataman Image" width="100"/>
+<img src="/M3T1/Github2.PNG" alt="Old Dataman Image" width="100"/>
 </div>
 
 
@@ -18,7 +18,7 @@ The original Dataman, released in the late 1970s, was not just a toy but an educ
 ## My Projects
 Currently working on the Dataman project. Stay tuned for more updates and other interesting projects!
 <div>
-<img src="/Github1.PNG" alt="Lanban Board" width="500"/>
+<img src="/M3T1/Github1.PNG" alt="Lanban Board" width="500"/>
 </div>
 
 
