@@ -2,7 +2,7 @@
 
 ## Dataman Project
 A fun, educational emulation of the 70s kids' toy, Dataman, now in a modern program form. Aimed to be engaging for kids and a tool parents can appreciate for its educational value.
-![Old Dataman Image](/Github1.png)
+![Old Dataman Image](/Github1.PNG)
 
 ### Features of Dataman
 - **Answer Checker:** Helps validate the answers provided by kids.
