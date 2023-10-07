@@ -16,6 +16,9 @@ The original Dataman, released in the late 1970s, was not just a toy but an educ
 - **Memory Bank:** A feature to aid memory-related tasks.
 - **Number Guesser:** Makes math learning fun with guessing games.
 
+## Github Repo For Dataman Project
+- [Visit the Project Repository](https://github.com/CalebFulmore/M3T1/tree/main): See the code and contribute to the Dataman Project.
+
 ## My Projects
 Currently working on the Dataman project. Stay tuned for more updates and other interesting projects!
 <div>
@@ -27,6 +30,7 @@ Currently working on the Dataman project. Stay tuned for more updates and other 
 - [Dataman Video Demo](https://www.youtube.com/watch?v=wzekCvpRPBc): Watch a video demo of the original Dataman.
 - [Dataman Commercial](https://www.youtube.com/watch?v=6MMOgIbMSdw): Check out a commercial for the original Dataman.
 - [Dataman Manual PDF](https://learn-us-east-1-prod-fleet01-xythos.content.blackboardcdn.com/blackboard.learn.xythos.prod/589b581008438/5608920?X-Blackboard-S3-Bucket=blackboard.learn.xythos.prod&...): Dive into the details with the Dataman manual.
+
 
 
 ## Further Information
