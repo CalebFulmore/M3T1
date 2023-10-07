@@ -11,7 +11,7 @@ A fun, educational emulation of the 70s kids' toy, Dataman, now in a modern prog
 
 ## My Projects
 Currently working on the Dataman project. Stay tuned for more updates and other interesting projects!
-<img src="/Github2.PNG" alt="Lanban Board" width="300"/>
+<img src="/Github1.PNG" alt="Lanban Board" width="300"/>
 
 
 ### Useful Links
